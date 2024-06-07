@@ -163,12 +163,12 @@ Software engineers can uphold ethical standards by:
 
 *   Designing software with user privacy and security in mind.
 
-**References:*
+**References:**
 
-(https://www.sei.cmu.edu/about/)
-(https://www.computer.org/education/bodies-of-knowledge/software-engineering)
-(https://www.nist.gov/privacy-framework/nist-sp-800-61)
-(https://medium.com/@briqi/the-software-architecture-roles-3bfccc9e36d2)
+*   https://www.sei.cmu.edu/about/
+*   https://www.computer.org/education/bodies-of-knowledge/software-engineering
+*   https://www.nist.gov/privacy-framework/nist-sp-800-61
+*   https://medium.com/@briqi/the-software-architecture-roles-3bfccc9e36d2
 
 **Submission Guidelines:**
 
