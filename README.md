@@ -9,6 +9,7 @@ Answer the following questions based on your understanding of software engineeri
 
 **Define Software Engineering:**
 **What is software engineering, and how does it differ from traditional programming?**
+
 Software engineering is the application of engineering principles and techniques to the design, development, testing, and maintenance of software systems. It involves a systematic approach to the development of software, ensuring that the final product meets the required specifications, is reliable, efficient, and scalable.
 
 Software engineering differs from traditional programming in that it emphasizes a structured approach, rigorous testing, and continuous improvement, rather than simply writing code.
@@ -162,6 +163,12 @@ Software engineers can uphold ethical standards by:
 
 *   Designing software with user privacy and security in mind.
 
+**References:*
+
+(https://www.sei.cmu.edu/about/)
+(https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+(https://www.nist.gov/privacy-framework/nist-sp-800-61)
+(https://medium.com/@briqi/the-software-architecture-roles-3bfccc9e36d2)
 
 **Submission Guidelines:**
 
